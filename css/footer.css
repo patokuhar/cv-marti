@@ -1,0 +1,19 @@
+/*footer*/
+footer {
+    text-align: center;
+    color: #fff;
+    padding-bottom: 4rem;
+  }
+  
+  footer .copyright {
+    margin-bottom: .3rem;
+  }
+  
+  footer .credits {
+    margin-bottom: 0;
+  }
+  
+  footer .credits a {
+    color: #fff;
+  }
+  
